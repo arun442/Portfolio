@@ -1,0 +1,22 @@
+
+.searchicon:hover {
+    
+    transform: translate(-0.05em, -0.05em);
+    box-shadow: 0.15em 0.15em #989898;
+  }
+  
+  .searchbtn:active {
+    transform: translate(0.05em, 0.05em);
+    box-shadow: 0.05em 0.05em #5566c2;
+  }
+.deletebtn :active{
+    transform: translate(0.05em, 0.05em);
+    
+}
+  .searchbtn{
+    border-radius: 78px;
+    background: #d3d3d3;
+    box-shadow:  5px 5px 10px #989898,
+                 -5px -5px 10px #ffffff;
+  }
+  
